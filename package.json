@@ -1,0 +1,31 @@
+{
+  "name": "boil-tweet-to-video",
+  "version": "1.0.0",
+  "description": "Gets video URLs from a tweet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimkang/boil-tweet-to-video.git"
+  },
+  "keywords": [
+    "twitter",
+    "video"
+  ],
+  "author": "Jim Kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimkang/boil-tweet-to-video/issues"
+  },
+  "homepage": "https://github.com/jimkang/boil-tweet-to-video",
+  "devDependencies": {
+    "assert-no-error": "^1.0.0",
+    "eslint": "^3.6.1",
+    "tape": "^4.6.0"
+  },
+  "dependencies": {
+    "object-path-exists": "^1.0.0"
+  }
+}
